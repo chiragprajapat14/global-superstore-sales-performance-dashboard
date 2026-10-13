@@ -23,7 +23,3 @@ This Business Intelligence solution was engineered to evaluate corporate sales o
 ## 📁 Repository Structure
 - `practice.1123_QoAanU.twbx`: Packaged Tableau Workbook containing unified visual sheets, layout frames, and high-performance offline database.
 - `README.md`: Core system architecture and data lifecycle documentation.
-
-## 👨‍💻 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Tableau Public:** [Your Tableau Public Profile Link]
