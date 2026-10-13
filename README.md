@@ -1,28 +1,28 @@
-# Bank Customer Retention & Churn Analytics Dashboard
+# Global Superstore Sales Performance & Profitability Dashboard
 
 ## 📊 Live Interactive Dashboard
-Explore and interact with the live project on the cloud:
+Explore and interact with the live enterprise analytics platform on the cloud:
 👉 **[View My Live Tableau Public Dashboard](https://tableau.com)**
 
 ---
 
 ## 🔍 Project Overview & Objective
-This Business Intelligence solution was engineered to diagnose, track, and analyze bank customer churn rates across core market segments. The dataset spans over **10,000 corporate records** capturing critical banking benchmarks. The objective is to identify demographic vulnerabilities and financial behaviors correlated with customer attrition, helping risk management teams implement targeted retention frameworks.
+This Business Intelligence solution was engineered to evaluate corporate sales outcomes, track geographic market value, and audit global profitability parameters. Interfacing with dense transactional records, the dashboard tracks over **\$2.3M in total sales** and provides corporate leaders with immediate visibility into operating margins, historical timeline trends, and subcategory profit margins. The objective is to identify high-performing assets and maximize regional revenue.
 
-## 🛠️ Data Architecture & Technical Scope
-- **File Structure:** Built on a production-ready Tableau Packaged Architecture (`.twbx`) housing a `.hyper` data extraction database.
-- **Data Modeling:** Established a star-schema relationship by executing inner data joins between a transactional central Fact layer (`Account_Fact.csv`) and contextual Dimension layers (`Customer_Dim.csv`) using unique user identifiers (`customer_id`).
-- **Core Parameters Analyzed:** Credit Evaluation Evaluation (`credit_score`), Transactional Capital (`balance`), Account Status (`active_member`), Regional Attributes (`country`), Tenure, Demographics (`gender`, `age`), and Estimated Earnings.
+## 🛠️ Architecture & Technical Scope
+- **File Blueprint:** Packaged and delivered using a production-ready Tableau Packaged Architecture (`.twbx`) housing compressed performance `.hyper` extract engines.
+- **Relational Data Modeling:** Maintained a multi-dimensional relational architecture optimization to cleanly handle high-volume sales lines, corporate segments, and target global geographical territories.
+- **Core KPIs Tracked:** Total Sales (Gross Volume), Total Net Profit, Regional Margin Percentages, Product Subcategory Rankings, and Temporal Trajectories.
 
 ## 📈 Key Dashboard Features & Insights
-- **Fluid Cross-Filtering Actions:** Implemented map actions where interacting with global geographic clusters dynamically updates adjacent metric tracking widgets, bar charts, and asset distributions.
-- **Risk Discovery UI:** Segmented customer drop-off trends, revealing that the highest localized retention risks are concentrated within specific geographic locations and demographic criteria.
+- **Fluid Cross-Filtering Actions:** Programmed multi-dimensional dashboard filter links. Selecting a specific territory or market on the geographic distribution map instantly re-filters regional temporal line graphs and category charts.
+- **Product Profitability Auditing:** Structured horizontal performance graphs separating data by categorical sub-volumes (e.g., Copiers, Phones, Paper), highlighting high-margin operational sweet spots alongside explicitly negative-yielding items like Tables.
 
 ---
 
 ## 📁 Repository Structure
-- `practice.1123_QoAanU.twbx`: The raw Tableau Packaged Workbook containing full visual layers and offline hyper-extract database.
-- `README.md`: Project documentation and architecture details.
+- `practice.1123_QoAanU.twbx`: Packaged Tableau Workbook containing unified visual sheets, layout frames, and high-performance offline database.
+- `README.md`: Core system architecture and data lifecycle documentation.
 
 ## 👨‍💻 Connect with Me
 - **LinkedIn:** [Your LinkedIn Profile Link]
